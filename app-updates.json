@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "appId": "jp.etccalendar.app",
+  "ios": {
+    "testflight": {
+      "version": "1.0",
+      "build": "34"
+    }
+  }
+}
